@@ -20,3 +20,5 @@ http://pentode.tistory.com/90
 https://www.eclipse.org/efxclipse/install.html
 
 https://stackoverflow.com/questions/35449332/opencv-object-detection-contour-position
+
+https://www.tensorflow.org/install/install_java
