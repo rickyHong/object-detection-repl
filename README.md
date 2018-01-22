@@ -16,3 +16,5 @@ http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-j
 https://github.com/opencv-java/object-detection
 http://opencv-java-tutorials.readthedocs.io/en/latest/08-object-detection.html#object-tracking
 http://pentode.tistory.com/90
+
+https://www.eclipse.org/efxclipse/install.html
