@@ -7,3 +7,11 @@ A project, made in Eclipse (Neon), for identify and track one or more tennis bal
 Please, note that the project is an Eclipse project, made for teaching purposes. Before using it, you need to install the OpenCV library (version 3.x) and JavaFX 8 and create a `User Library` named `opencv` that links to the OpenCV jar and native libraries.
 
 A guide for getting started with OpenCV and Java is available at [http://opencv-java-tutorials.readthedocs.org/en/latest/index.html](http://opencv-java-tutorials.readthedocs.org/en/latest/index.html).
+
+
+>>.
+http://opencv-java-tutorials.readthedocs.io/en/latest/
+http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html#set-up-opencv-for-java-in-eclipse
+
+https://github.com/opencv-java/object-detection
+http://opencv-java-tutorials.readthedocs.io/en/latest/08-object-detection.html#object-tracking
